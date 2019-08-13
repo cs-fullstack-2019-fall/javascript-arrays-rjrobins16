@@ -16,6 +16,7 @@ alert(names);
 
 let numberArray = [2,4,6,8,10];
 alert(numberArray);
+// PARTIAL CREDIT : use a loop to print each element in the array
 
 //Exercise 3
 //1. Create an array with 4 names.
